@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color:darkkhaki;
+}
+
+p{
+    text-align: center;
+    color: darkkhaki;
+}
+
+body{
+    background-color: navy;
+}
+
+table, th, td{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border: 1px solid black;
+}
+
+td{
+    height:30px;
+    width:50px;
+}
