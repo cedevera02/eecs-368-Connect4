@@ -55,7 +55,17 @@ function checkHor(color){
                 break;
             }
         }
+        inarrow = 0;
+        prev = false;
+        winArr[0] = "blank";
+        winArr[1] = "blank";
+        winArr[2] = "blank";
+        winArr[3] = "blank";
     }
+    winArr[0] = "blank";
+    winArr[1] = "blank";
+    winArr[2] = "blank";
+    winArr[3] = "blank";
 }
 
 function checkVer(color){
